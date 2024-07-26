@@ -21,7 +21,6 @@ Enthusiastic and detail-oriented Business/Data Analyst with hands-on experience 
 - Developed functions to load data, calculate total sales, and identify top-selling products.  
 - Implemented price simulation and sales prediction - Demonstrated strong skills in data manipulation and analysis with Python.  
 ### Awards & Achievements 
-- Python (Numpy, Pandas) 
 - MyCaptain: Business Analyst Pro Course | Certification  
 - Hacker Rank: Basic SQL | Certification                                                                               
 ### Education 
