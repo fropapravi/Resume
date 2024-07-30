@@ -28,7 +28,17 @@ Enthusiastic and detail-oriented Business/Data Analyst with hands-on experience 
 #### Sales dataset analysis using (Python)      
 - Analyzed sales data to identify trends and patterns, resulting in data-driven insights.  
 - Developed functions to load data, calculate total sales, and identify top-selling products.  
-- Implemented price simulation and sales prediction - Demonstrated strong skills in data manipulation and analysis with Python.  
+- Implemented price simulation and sales prediction - Demonstrated strong skills in data manipulation and analysis with Python.
+
+#### Data Cleaning and Validation for Myntra Catalogue (Excel)      
+- The project aimed to clean and validate Myntra's catalogue data using Excel to ensure accuracy and completeness, enabling reliable analysis 
+for identifying sales trends and optimizing inventory management. 
+- Removed duplicates, corrected errors, and standardized formats. Filled missing values using mean, median, or mode imputation. Detected 
+and handled outliers. Used pivot tables to summarize and analyze data. Created visual representations to highlight key insights. 
+- Achieved 100% data completeness by replacing missing values and managed 5% of the data as outliers to ensure accurate analysis. Using pivot 
+tables and charts, identified the highest sales figures, revealing a specific product category that accounted for 35% of total sales.
+
+ 
 ### Awards & Achievements 
 - MyCaptain: Business Analyst Pro Course | Certification  
 - Hacker Rank: Basic SQL | Certification                                                                               
