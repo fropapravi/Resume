@@ -24,7 +24,21 @@ Enthusiastic and detail-oriented Business/Data Analyst with hands-on experience 
 - Purchasing behaviors. This aimed to optimize inventory management and marketing strategies to drive better business decisions. 
 - Streamlined and optimized SQL query operations successfully reducing processing times by over 50%, thus enhancing overall database efficiency and response times with subqueries, aggregate functions, Filtration, Group By, having Clause and CTE tables to perform comprehensive data analysis. 
 - By analyzing sales data, I discovered that laptops generate 2X revenue compared to other products, Canada leading with 1.5X more transactions than the USA and UK where laptops and smartphones are the highest selling categories.
-- 
+
+#### Swiggy Data Exploration Analysis Project - (SQL) 
+
+- This project aims to analyze various aspects of Swiggy, one of the leading food delivery platforms, to gain insight into pricing trends, cuisine types, menu items, ratings, and city-wise variations 
+- Utilized subqueries, aggregate functions, Filtration, Group By and having Clause to perform comprehensive data analysis in  
+- Successfully identified significant trends and insights within the dataset, including a 12% increase in Customer Rating and Bangalore as >10% of Customer visit as compare to another city.  
+
+#### Health Care Data Analysis - (SQL) 
+
+- To analyze a healthcare dataset focusing on patient visits, billing, doctor consultations, and disease precautions using
+ advanced SQL techniques.
+- Utilized joins, subqueries, aggregate functions, window functions, and common tableexpressions (CTEs) to perform comprehensive data analysis with use of Advance SQL
+ - Successfully identified significant trends and insights within the dataset, including a 20% increase in patient visits for Routine checkup, a 15% of medicine is prescribed is Insulin, and a 10% increment from the last month Revenue.
+
+
 #### Sales dataset analysis using (Python)      
 - Analyzed sales data to identify trends and patterns, resulting in data-driven insights.  
 - Developed functions to load data, calculate total sales, and identify top-selling products.  
