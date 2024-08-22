@@ -11,12 +11,16 @@ Enthusiastic and detail-oriented Business/Data Analyst with hands-on experience 
 - Soft Skills: Critical Thinking, Brainstorming, Communication Skills, Interpersonal Skill, Team Leader, Problem Solver
 
 ### Experience
-#### Internship - Research associate @Nueconomy
+#### Internship - Research associate at Nueconomy - Present
 
 - To source, analyse & collate information relevant to your assigned Nueconomy products.
 - Take responsibility for the quality of data added to the products and ensure data integrity.
 - Contributing to the product’s future development by suggesting new additions & features that could ensure expanding the subscription base of the product’s
 - Actively participate or collaborate with your cross functional team to promote the products via content & social marketing.
+
+#### Design engineer at Disha Retail Fixtures - 1 Year
+- Requirement gathering & Collaboration with customer support team and prioritization the work accordingly to customer requirement.
+- Contributed 10% in Companies revenue by reducing the wastage of raw materials and completely optimizing production Design.
 
 ### Projects 
 #### Top_Indian_Youtuber_2024 - (Excel, PSQL, Power BI)
