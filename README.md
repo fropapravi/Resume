@@ -8,7 +8,15 @@ Enthusiastic and detail-oriented Business/Data Analyst with hands-on experience 
 - Languages and DataBases: Python, Pandas, Numpy, SQL, MySQL 
 - Visualization Tools: Power BI 
 - Other Skills: Advanced Excel, Business Analysis,Data Analysis 
-- Soft Skills: Critical Thinking, Brainstorming, Communication Skills, Interpersonal Skill, Team Leader, Problem Solver 
+- Soft Skills: Critical Thinking, Brainstorming, Communication Skills, Interpersonal Skill, Team Leader, Problem Solver
+
+### Experience
+#### Internship - Research associate @Nueconomy
+
+- To source, analyse & collate information relevant to your assigned Nueconomy products.
+- Take responsibility for the quality of data added to the products and ensure data integrity.
+- Contributing to the product’s future development by suggesting new additions & features that could ensure expanding the subscription base of the product’s
+- Actively participate or collaborate with your cross functional team to promote the products via content & social marketing.
 
 ### Projects 
 #### Top_Indian_Youtuber_2024 - (Excel, PSQL, Power BI)
